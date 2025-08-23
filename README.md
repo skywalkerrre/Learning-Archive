@@ -1,7 +1,3 @@
-Perfect! Here's the **final README** with a clean, professional **banner section** at the top using `shields.io` badges. This version is visually appealing, “Masters-friendly,” and recruiter-ready — perfect for GitHub profile review or portfolio links.
-
----
-
 # 📘 Learning-Archive
 
 **Maintained by [Somil Singh](https://github.com/skywalkerrre) — Software Engineer & AI Enthusiast**
