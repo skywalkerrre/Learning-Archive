@@ -2,7 +2,7 @@
 
 **Maintained by [Somil Singh](https://github.com/skywalkerrre) — Software Engineer & AI Enthusiast**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) ![LocalStorage](https://img.shields.io/badge/LocalStorage-API-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=fff) ![Frontend](https://img.shields.io/badge/Focus-Frontend_Development-blueviolet?style=for-the-badge)
 
 A Vanilla JavaScript shopping list application designed to practice and demonstrate core front-end development concepts.
 
