@@ -1,0 +1,2 @@
+[console_scripts]
+cycon = src.commands.commands:cycon
